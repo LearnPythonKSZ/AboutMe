@@ -206,6 +206,14 @@ div.heading {
 	padding-left: 370px;
 	padding-right: 370px;
 }
+.textbox {
+	
+	text-align: left;
+	margin-left: 390px;
+	margin-right: 390px;
+	border: solid 2px black;
+	background-color: white;
+}
 .textaboutme {
 	text-align: left;
 	margin-left: 20px;
